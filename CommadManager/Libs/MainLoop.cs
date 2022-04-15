@@ -27,12 +27,10 @@ static class MainLoop
     {
         return new List<Command>()
         {
-            new Command("test","Command for test", () => Console.WriteLine("Hello, Test! XD")),
             new Command("add","Adding number", CalculationMethods.AddHandle),
             new Command("substract","Substracting numbers", CalculationMethods.SubstractHandle),
             new Command("divide","Dividing numbers", CalculationMethods.DivideHandle),
             new Command("multiply","Multiply numbers", CalculationMethods.MultiplyHandle),
-            
         };
     }
 

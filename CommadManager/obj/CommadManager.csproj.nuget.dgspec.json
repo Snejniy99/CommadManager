@@ -1,25 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "/home/snejniy/RiderProjects/CommadManager/CommadManager/CommadManager.csproj": {}
+    "C:\\Users\\Snejniy\\Source\\Repos\\Snejniy99\\CommadManager\\CommadManager\\CommadManager.csproj": {}
   },
   "projects": {
-    "/home/snejniy/RiderProjects/CommadManager/CommadManager/CommadManager.csproj": {
+    "C:\\Users\\Snejniy\\Source\\Repos\\Snejniy99\\CommadManager\\CommadManager\\CommadManager.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/snejniy/RiderProjects/CommadManager/CommadManager/CommadManager.csproj",
+        "projectUniqueName": "C:\\Users\\Snejniy\\Source\\Repos\\Snejniy99\\CommadManager\\CommadManager\\CommadManager.csproj",
         "projectName": "CommadManager",
-        "projectPath": "/home/snejniy/RiderProjects/CommadManager/CommadManager/CommadManager.csproj",
-        "packagesPath": "/home/snejniy/.nuget/packages/",
-        "outputPath": "/home/snejniy/RiderProjects/CommadManager/CommadManager/obj/",
+        "projectPath": "C:\\Users\\Snejniy\\Source\\Repos\\Snejniy99\\CommadManager\\CommadManager\\CommadManager.csproj",
+        "packagesPath": "C:\\Users\\Snejniy\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Snejniy\\Source\\Repos\\Snejniy99\\CommadManager\\CommadManager\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/snejniy/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\Snejniy\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -52,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.201/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     }
