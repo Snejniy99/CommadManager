@@ -1,0 +1,15 @@
+/home/snejniy/RiderProjects/CommadManager/CommadManager/bin/Debug/net6.0/CommadManager
+/home/snejniy/RiderProjects/CommadManager/CommadManager/bin/Debug/net6.0/CommadManager.deps.json
+/home/snejniy/RiderProjects/CommadManager/CommadManager/bin/Debug/net6.0/CommadManager.runtimeconfig.json
+/home/snejniy/RiderProjects/CommadManager/CommadManager/bin/Debug/net6.0/CommadManager.dll
+/home/snejniy/RiderProjects/CommadManager/CommadManager/bin/Debug/net6.0/CommadManager.pdb
+/home/snejniy/RiderProjects/CommadManager/CommadManager/obj/Debug/net6.0/CommadManager.csproj.AssemblyReference.cache
+/home/snejniy/RiderProjects/CommadManager/CommadManager/obj/Debug/net6.0/CommadManager.GeneratedMSBuildEditorConfig.editorconfig
+/home/snejniy/RiderProjects/CommadManager/CommadManager/obj/Debug/net6.0/CommadManager.AssemblyInfoInputs.cache
+/home/snejniy/RiderProjects/CommadManager/CommadManager/obj/Debug/net6.0/CommadManager.AssemblyInfo.cs
+/home/snejniy/RiderProjects/CommadManager/CommadManager/obj/Debug/net6.0/CommadManager.csproj.CoreCompileInputs.cache
+/home/snejniy/RiderProjects/CommadManager/CommadManager/obj/Debug/net6.0/CommadManager.dll
+/home/snejniy/RiderProjects/CommadManager/CommadManager/obj/Debug/net6.0/refint/CommadManager.dll
+/home/snejniy/RiderProjects/CommadManager/CommadManager/obj/Debug/net6.0/CommadManager.pdb
+/home/snejniy/RiderProjects/CommadManager/CommadManager/obj/Debug/net6.0/CommadManager.genruntimeconfig.cache
+/home/snejniy/RiderProjects/CommadManager/CommadManager/obj/Debug/net6.0/ref/CommadManager.dll
